@@ -23,4 +23,5 @@ The extension also includes features like reminders, goal-setting, and reports t
 ![Image](https://github.com/user-attachments/assets/e7195963-bb2f-4fe1-9713-c5d0dc658f59)
 
 And we can see our overall stats.
+
 ![Image](https://github.com/user-attachments/assets/4fd078c2-ffc4-4b30-a638-63b8cbe1d69a)
