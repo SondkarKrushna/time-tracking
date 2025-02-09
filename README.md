@@ -19,3 +19,8 @@ The extension offers real-time tracking, providing developers with accurate time
 In addition to time tracking, the extension provides in-depth productivity analytics, using data visualizations such as graphs and pie charts to highlight trends, peak productivity periods, and areas of improvement. By tracking time across multiple sessions, developers can analyze patterns and gain insights into how to better manage their workflow, identify bottlenecks, and optimize focus.
 
 The extension also includes features like reminders, goal-setting, and reports that can be exported for personal reflection or team collaboration. With its user-friendly interface, this tool is a must-have for developers seeking to enhance their productivity and time management.
+
+![Image](https://github.com/user-attachments/assets/e7195963-bb2f-4fe1-9713-c5d0dc658f59)
+
+And we can see our overall stats.
+![Image](https://github.com/user-attachments/assets/4fd078c2-ffc4-4b30-a638-63b8cbe1d69a)
